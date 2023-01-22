@@ -1,0 +1,32 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.row{
+    background-color: rgb(232, 198, 243);
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px, -8px -8px 22px;
+}
+.kk
+{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    
+    border-radius: 60px;
+}
+.btn1{
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    font-size: large;
+    
+    border-radius: 60px;
+    margin-right: 100px;
+}
